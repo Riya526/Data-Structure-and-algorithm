@@ -61,3 +61,19 @@ This repository is intended for educational and personal use.
 ---
 
 **Consistent practice is the key to mastering Data Structures and Algorithms.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0015-3sum) |
+<!---LeetCode Topics End-->
