@@ -11,7 +11,7 @@ class Solution {
             while(left<right){
                 int sum=nums[left]+nums[right]+nums[i];
                 int diff=Math.abs(sum-target);
-                if(max_diff>diff){
+                if(diff<max_diff){
                     max_diff=diff;
                     result_sum=sum;
                 }
