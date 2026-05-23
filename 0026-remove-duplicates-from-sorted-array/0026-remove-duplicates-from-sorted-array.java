@@ -3,7 +3,6 @@ class Solution {
         int n=nums.length;
         if(n==0)
         return 0;
-        int k=1;
         int i=0;
         int j=1;
         while(j<n){
@@ -13,10 +12,9 @@ class Solution {
             }else{
                 nums[i+1]=nums[j];
                 i++;
-                k++;
                 j++;
             }
         }
-        return k;
+        return i+1;
     }
 }
