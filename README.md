@@ -73,6 +73,7 @@ This repository is intended for educational and personal use.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -110,6 +111,7 @@ This repository is intended for educational and personal use.
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -122,5 +124,10 @@ This repository is intended for educational and personal use.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
