@@ -74,6 +74,7 @@ This repository is intended for educational and personal use.
 | [0073-set-matrix-zeroes](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,8 @@ This repository is intended for educational and personal use.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
