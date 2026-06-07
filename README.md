@@ -76,6 +76,7 @@ This repository is intended for educational and personal use.
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repository is intended for educational and personal use.
 | [0073-set-matrix-zeroes](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0202-happy-number) |
+| [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
