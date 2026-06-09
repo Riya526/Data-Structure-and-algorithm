@@ -101,6 +101,7 @@ This repository is intended for educational and personal use.
 | [0073-set-matrix-zeroes](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
@@ -127,10 +128,15 @@ This repository is intended for educational and personal use.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
