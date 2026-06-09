@@ -77,6 +77,7 @@ This repository is intended for educational and personal use.
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,10 +133,12 @@ This repository is intended for educational and personal use.
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
