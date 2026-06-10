@@ -7,8 +7,8 @@ class Solution {
             int a1=nums[i];
             int a2=maxend*nums[i];
             int a3=minend*nums[i];
-            maxend=Math.max(a1,Math.max(a2,a3));
-            minend=Math.min(a1,Math.min(a2,a3));
+            maxend=Math.max(a1,Math.max(a2,a3));//for +ve multiplication
+            minend=Math.min(a1,Math.min(a2,a3)); //for - * - 
             ans=Math.max(ans,Math.max(maxend,minend));
         }
         return ans;
