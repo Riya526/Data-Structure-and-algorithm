@@ -71,6 +71,7 @@ This repository is intended for educational and personal use.
 | [0016-3sum-closest](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
@@ -146,4 +147,12 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
