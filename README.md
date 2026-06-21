@@ -129,6 +129,7 @@ This repository is intended for educational and personal use.
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
