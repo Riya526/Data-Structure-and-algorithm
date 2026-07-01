@@ -174,6 +174,7 @@ This repository is intended for educational and personal use.
 | [0076-minimum-window-substring](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,4 +206,8 @@ This repository is intended for educational and personal use.
 | [0024-swap-nodes-in-pairs](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
