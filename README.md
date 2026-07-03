@@ -118,6 +118,7 @@ This repository is intended for educational and personal use.
 | [0076-minimum-window-substring](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -173,6 +174,7 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
@@ -191,6 +193,7 @@ This repository is intended for educational and personal use.
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -210,4 +213,8 @@ This repository is intended for educational and personal use.
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
