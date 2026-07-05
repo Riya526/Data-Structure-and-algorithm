@@ -120,6 +120,7 @@ This repository is intended for educational and personal use.
 | [0202-happy-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +178,7 @@ This repository is intended for educational and personal use.
 | [0344-reverse-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
@@ -220,4 +222,8 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0383-ransom-note](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
