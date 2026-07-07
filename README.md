@@ -77,6 +77,7 @@ This repository is intended for educational and personal use.
 | [0073-set-matrix-zeroes](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0525-contiguous-array) |
@@ -143,6 +144,7 @@ This repository is intended for educational and personal use.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
