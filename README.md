@@ -83,6 +83,7 @@ This repository is intended for educational and personal use.
 | [0525-contiguous-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0904-fruit-into-baskets) |
@@ -147,6 +148,7 @@ This repository is intended for educational and personal use.
 | [0162-find-peak-element](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
