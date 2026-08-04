@@ -144,6 +144,7 @@ This repository is intended for educational and personal use.
 | [0092-reverse-linked-list-ii](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
