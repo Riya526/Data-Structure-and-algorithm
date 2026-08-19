@@ -184,6 +184,7 @@ This repository is intended for educational and personal use.
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0383-ransom-note) |
@@ -199,6 +200,7 @@ This repository is intended for educational and personal use.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0509-fibonacci-number) |
@@ -242,4 +244,12 @@ This repository is intended for educational and personal use.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
