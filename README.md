@@ -189,6 +189,7 @@ This repository is intended for educational and personal use.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -205,6 +206,7 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0918-maximum-sum-circular-subarray) |
@@ -253,6 +255,7 @@ This repository is intended for educational and personal use.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
