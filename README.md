@@ -71,6 +71,7 @@ This repository is intended for educational and personal use.
 | [0016-3sum-closest](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0057-insert-interval) |
@@ -251,6 +252,7 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
