@@ -164,6 +164,7 @@ This repository is intended for educational and personal use.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0509-fibonacci-number) |
 ## Sliding Window
@@ -207,6 +208,7 @@ This repository is intended for educational and personal use.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0509-fibonacci-number) |
@@ -249,6 +251,7 @@ This repository is intended for educational and personal use.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Riya526/Data-Structure-and-algorithm/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
